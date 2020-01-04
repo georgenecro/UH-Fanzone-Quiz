@@ -1,4 +1,4 @@
-**Privacy Policy
+<h1> Privacy Policy </h1>
 <hr>
 <div id="content">
     <p> Nick Iliadis built the UH Fanzone Quiz&nbsp;app as an Ad Supported app. This SERVICE is provided by Nick Iliadis at no cost and is intended for use as is. </p>
