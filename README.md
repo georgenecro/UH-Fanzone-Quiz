@@ -13,6 +13,7 @@
         <ul>
             <li><a href="https://support.google.com/admob/answer/6128543?hl=en" rel="nofollow" target="_blank">AdMob</a></li>
             <li><a href="https://airtable.com/privacy" rel="nofollow" target="_blank">Airtable</a></li>
+            <li><a href="https://firebase.google.com/support/privacy" rel="nofollow" target="_blank">Firebase</a></li>
         </ul>
     </div>
     <p><strong>Log Data</strong></p>
